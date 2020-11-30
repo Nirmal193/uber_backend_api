@@ -68,7 +68,7 @@
       <workItem from="1606290271666" duration="1303000" />
       <workItem from="1606629219233" duration="1524000" />
       <workItem from="1606718832685" duration="2363000" />
-      <workItem from="1606721754940" duration="382000" />
+      <workItem from="1606721754940" duration="1324000" />
     </task>
     <servers />
   </component>
@@ -76,6 +76,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1606723075558">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1606723075558" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1606721854441">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -88,5 +92,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="65" y="4" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1606236001342" />
+    <state x="513" y="174" key="svn.repositoryBrowser" timestamp="1606723067503">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="513" y="174" key="svn.repositoryBrowser/0.0.1366.768@0.0.1366.768" timestamp="1606723067503" />
   </component>
 </project>
